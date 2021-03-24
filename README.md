@@ -1,5 +1,5 @@
 # 20.14.1.0045-AriRidho
-Data Praktikum ALPRO 2021 <br>
-NPM : 20.14.1.0045 <br>
-Nama : Ari Ridho Wardana <br>
-Matkul : Praktikum ALPRO 2021 <br>
+<b> Data Praktikum ALPRO 2021 <br> </b>
+<b> NPM : 20.14.1.0045 <br> </b>
+<b> Nama : Ari Ridho Wardana <br></b>
+<b> Matkul : Praktikum ALPRO 2021 <br> </b>
